@@ -1,0 +1,13 @@
+Task:
+
+Create a FastAPI application with the following endpoints:
+
+/login Endpoint:
+
+Use the GET method.
+Include appropriate parameters.
+/signup Endpoint:
+
+Use the POST method.
+Include appropriate parameters.
+Ensure that the responses are returned in JSON format.
